@@ -7,3 +7,7 @@ I have had to learn the hard way, spend money, watch hours and hours of videos, 
 
 If you need help, have questions or wanna discuss other things. Join my discord and submit a ticket:
 **https://discord.com/invite/HYZXB2fWZ2**
+
+
+
+# DO NOT TRY TO TAKE THIS INFO AND CHARGE SOMEONE FOR IT!
