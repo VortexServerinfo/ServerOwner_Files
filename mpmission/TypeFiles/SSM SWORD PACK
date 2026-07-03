@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+    <type name="m1_CyberKatana">
+        <nominal>5</nominal>
+        <lifetime>3600</lifetime>
+        <restock>7200</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="tool"/>
+        <tag name="ground"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+    </type>
+    <type name="m1_CyberKatana_purple">
+        <nominal>5</nominal>
+        <lifetime>3600</lifetime>
+        <restock>7200</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="tool"/>
+        <tag name="ground"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+    </type>
+    <type name="m1_DemonSlayer">
+        <nominal>5</nominal>
+        <lifetime>3600</lifetime>
+        <restock>7200</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="tool"/>
+        <tag name="ground"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+    </type>
+    <type name="m1_InfernoKatana">
+        <nominal>5</nominal>
+        <lifetime>3600</lifetime>
+        <restock>7200</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="tool"/>
+        <tag name="ground"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+    </type>
+    <type name="m1_JapanKatana">
+        <nominal>5</nominal>
+        <lifetime>3600</lifetime>
+        <restock>7200</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="tool"/>
+        <tag name="ground"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+    </type>
+    <type name="m1_LightingSphereKatana">
+        <nominal>5</nominal>
+        <lifetime>3600</lifetime>
+        <restock>7200</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="tool"/>
+        <tag name="ground"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+    </type>
+    <type name="m1_PrismBlade">
+        <nominal>5</nominal>
+        <lifetime>3600</lifetime>
+        <restock>7200</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="tool"/>
+        <tag name="ground"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+    </type>
+    <type name="m1_ScarletCut">
+        <nominal>5</nominal>
+        <lifetime>3600</lifetime>
+        <restock>7200</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="tool"/>
+        <tag name="ground"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+    </type>
+    <type name="m1_SunriseKatana">
+        <nominal>5</nominal>
+        <lifetime>3600</lifetime>
+        <restock>7200</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="tool"/>
+        <tag name="ground"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+    </type>
+    <type name="m1_SciFiKatana">
+        <nominal>5</nominal>
+        <lifetime>3600</lifetime>
+        <restock>7200</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="tool"/>
+        <tag name="ground"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+    </type>
+    <type name="m1_StylizedKatana">
+        <nominal>5</nominal>
+        <lifetime>3600</lifetime>
+        <restock>7200</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="tool"/>
+        <tag name="ground"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+    </type>
+    <type name="m1_CyberSheath_purple">
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
+        <restock>7200</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="tool"/>
+        <tag name="ground"/>
+        <usage name="Town"/>
+    </type>  
+    <type name="m1_CyberSheath">
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
+        <restock>7200</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="tool"/>
+        <tag name="ground"/>
+        <usage name="Town"/>
+    </type>
+    <type name="m1_sheath">
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
+        <restock>7200</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="tool"/>
+        <tag name="ground"/>
+        <usage name="Town"/>
+    </type>
+    <type name="m1_DemonSlayersheath">
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
+        <restock>7200</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="tool"/>
+        <tag name="ground"/>
+        <usage name="Town"/>
+    </type>
+    <type name="m1_JapanSheath">
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
+        <restock>7200</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="tool"/>
+        <tag name="ground"/>
+        <usage name="Town"/>
+    </type>
+    <type name="m1_ScarletCutSheath">
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
+        <restock>7200</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="tool"/>
+        <tag name="ground"/>
+        <usage name="Town"/>
+    </type>
+    <type name="m1_PrismSheath">
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
+        <restock>7200</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="tool"/>
+        <tag name="ground"/>
+        <usage name="Town"/>
+    </type>
+    <type name="m1_Kit_KatanaKake">
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
+        <restock>7200</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="tool"/>
+        <tag name="ground"/>
+        <usage name="Town"/>
+    </type>
+    <type name="m1_KatanaKake">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+    </type>
+	
+    <type name="m1_murasama_black">
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
+        <restock>7200</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="tool"/>
+        <tag name="ground"/>
+        <usage name="Town"/>
+    </type>
+    <type name="m1_murasama_blue">
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
+        <restock>7200</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="tool"/>
+        <tag name="ground"/>
+        <usage name="Town"/>
+    </type>
+    <type name="m1_murasama_blue_svet">
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
+        <restock>7200</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="tool"/>
+        <tag name="ground"/>
+        <usage name="Town"/>
+    </type>
+    <type name="m1_murasama_green">
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
+        <restock>7200</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="tool"/>
+        <tag name="ground"/>
+        <usage name="Town"/>
+    </type>
+    <type name="m1_murasama_green_svet">
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
+        <restock>7200</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="tool"/>
+        <tag name="ground"/>
+        <usage name="Town"/>
+    </type>
+    <type name="m1_murasama_purple">
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
+        <restock>7200</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="tool"/>
+        <tag name="ground"/>
+        <usage name="Town"/>
+    </type>
+    <type name="m1_murasama_purple_svet">
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
+        <restock>7200</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="tool"/>
+        <tag name="ground"/>
+        <usage name="Town"/>
+    </type>
+    <type name="m1_murasama_red">
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
+        <restock>7200</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="tool"/>
+        <tag name="ground"/>
+        <usage name="Town"/>
+    </type>
+    <type name="m1_murasama_red_svet">
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
+        <restock>7200</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="tool"/>
+        <tag name="ground"/>
+        <usage name="Town"/>
+    </type>
+</types>
