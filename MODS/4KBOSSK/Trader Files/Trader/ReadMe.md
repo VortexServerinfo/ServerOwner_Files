@@ -1,1 +1,1 @@
-# These Files go into your Market Folder in your Profiles Folder
+# These Files go into your Trader Folder in your Profiles Folder
