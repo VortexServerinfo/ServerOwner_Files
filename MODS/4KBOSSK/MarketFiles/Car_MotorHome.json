@@ -1,0 +1,113 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Motor Home",
+  "Icon": "Gas",
+  "Color": "ad8eff",
+  "IsExchange": 0,
+  "InitStockPercent": 100,
+  "Items": [
+    {
+      "ClassName": "motorhome_apo",
+      "MaxPriceThreshold": 1750000,
+      "MinPriceThreshold": 1750000,
+      "SellPricePercent": 25,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "motorhome_driverdoor2",
+        "motorhome_hoodapo",
+        "motorhome_hood2apo",
+        "motorhomerv_wheel",
+        "motorhomerv_wheel",
+        "motorhomerv_wheel",
+        "motorhomerv_wheel",
+        "motorhomerv_wheel",
+        "carbattery",
+        "headlighth7",
+        "headlighth7",
+        "sparkplug",
+        "carradiator",
+        "wrench"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "motorhome_white",
+      "MaxPriceThreshold": 1750000,
+      "MinPriceThreshold": 1750000,
+      "SellPricePercent": 25,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "motorhome_driverdoor",
+        "motorhome_hood",
+        "motorhomerv_wheel",
+        "motorhomerv_wheel",
+        "motorhomerv_wheel",
+        "motorhomerv_wheel",
+        "motorhomerv_wheel",
+        "carbattery",
+        "headlighth7",
+        "headlighth7",
+        "sparkplug",
+        "carradiator",
+        "wrench"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "motorhome_greencamo",
+      "MaxPriceThreshold": 1750000,
+      "MinPriceThreshold": 1750000,
+      "SellPricePercent": 25,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "motorhome_driverdoorgreencamo",
+        "motorhome_hoodgreencamo",
+        "motorhome_hood2greencamo",
+        "motorhomerv_wheel",
+        "motorhomerv_wheel",
+        "motorhomerv_wheel",
+        "motorhomerv_wheel",
+        "motorhomerv_wheel",
+        "carbattery",
+        "headlighth7",
+        "headlighth7",
+        "sparkplug",
+        "carradiator",
+        "wrench"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "motorhome_rust",
+      "MaxPriceThreshold": 1750000,
+      "MinPriceThreshold": 1750000,
+      "SellPricePercent": 25,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "motorhome_driverrust",
+        "motorhome_hoodrust",
+        "motorhome_hood2rust",
+        "motorhomerv_wheel",
+        "motorhomerv_wheel",
+        "motorhomerv_wheel",
+        "motorhomerv_wheel",
+        "motorhomerv_wheel",
+        "carbattery",
+        "headlighth7",
+        "headlighth7",
+        "sparkplug",
+        "carradiator",
+        "wrench"
+      ],
+      "Variants": []
+    }
+  ]
+}
