@@ -1,0 +1,323 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Police Parts",
+  "Icon": "Star",
+  "Color": "dcee2d",
+  "IsExchange": 0,
+  "InitStockPercent": 75,
+  "Items": [
+    {
+      "ClassName": "fordcrown_victoria_hood_police",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FordMustang_SVT_hood_police",
+        "fordcrown_victoria_hood_sheriff2",
+        "fordcrown_victoria_hood_sheriff2rust"
+      ]
+    },
+    {
+      "ClassName": "fordcrown_victoria_trunk_police",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FordMustang_SVT_trunk_police",
+        "fordcrown_victoria_trunk_sheriff2",
+        "fordcrown_victoria_trunk_sheriff2rust"
+      ]
+    },
+    {
+      "ClassName": "fordcrown_victoria_driverdoor_police",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FordMustang_SVT_driverdoor_police",
+        "fordcrown_victoria_driverdoor_sheriff2rust",
+        "fordcrown_victoria_driverdoor_sheriff2"
+      ]
+    },
+    {
+      "ClassName": "fordcrown_victoria_codriver_police",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FordMustang_SVT_codriverdoor_police",
+        "fordcrown_victoria_codriver_sheriff2rust",
+        "fordcrown_victoria_codriver_sheriff2"
+      ]
+    },
+    {
+      "ClassName": "fordcrown_victoria_cargo1_police",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fordcrown_victoria_cargo1_sheriff2rust",
+        "fordcrown_victoria_cargo1_sheriff2"
+      ]
+    },
+    {
+      "ClassName": "fordcrown_victoria_cargo2_police",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fordcrown_victoria_cargo2_sheriff2rust",
+        "fordcrown_victoria_cargo2_sheriff2"
+      ]
+    },
+    {
+      "ClassName": "fordcrown_victoria_driverdoor_unmarked_Sheriff",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fordcrown_victoria_driverdoor_unmarked_red",
+        "fordcrown_victoria_driverdoor_unmarked_tan",
+        "fordcrown_victoria_driverdoor_unmarked_teal",
+        "fordcrown_victoria_driverdoor_unmarked_blue",
+        "fordcrown_victoria_driverdoor_unmarked_black",
+        "fordcrown_victoria_driverdoor_unmarked_white",
+        "fordcrown_victoria_driverdoor_unmarked_darkblue",
+        "fordcrown_victoria_driverdoor_unmarked_SheriffRust"
+      ]
+    },
+    {
+      "ClassName": "fordcrown_victoria_trunk_unmarked_Sheriff",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fordcrown_victoria_trunk_unmarked_red",
+        "fordcrown_victoria_trunk_unmarked_tan",
+        "fordcrown_victoria_trunk_unmarked_teal",
+        "fordcrown_victoria_trunk_unmarked_blue",
+        "fordcrown_victoria_trunk_unmarked_black",
+        "fordcrown_victoria_trunk_unmarked_white",
+        "fordcrown_victoria_trunk_unmarked_darkblue",
+        "fordcrown_victoria_trunk_unmarked_SheriffRust"
+      ]
+    },
+    {
+      "ClassName": "fordcrown_victoria_cargo1_unmarked_Sheriff",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fordcrown_victoria_cargo1_unmarked_red",
+        "fordcrown_victoria_cargo1_unmarked_tan",
+        "fordcrown_victoria_cargo1_unmarked_teal",
+        "fordcrown_victoria_cargo1_unmarked_blue",
+        "fordcrown_victoria_cargo1_unmarked_black",
+        "fordcrown_victoria_cargo1_unmarked_white",
+        "fordcrown_victoria_cargo1_unmarked_darkblue",
+        "fordcrown_victoria_cargo1_unmarked_SheriffRust"
+      ]
+    },
+    {
+      "ClassName": "fordcrown_victoria_cargo2_unmarked_Sheriff",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fordcrown_victoria_cargo2_unmarked_red",
+        "fordcrown_victoria_cargo2_unmarked_tan",
+        "fordcrown_victoria_cargo2_unmarked_teal",
+        "fordcrown_victoria_cargo2_unmarked_blue",
+        "fordcrown_victoria_cargo2_unmarked_black",
+        "fordcrown_victoria_cargo2_unmarked_white",
+        "fordcrown_victoria_cargo2_unmarked_darkblue",
+        "fordcrown_victoria_cargo2_unmarked_SheriffRust"
+      ]
+    },
+    {
+      "ClassName": "fordcrown_victoria_hood_unmarked_Sheriff",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fordcrown_victoria_hood_unmarked_red",
+        "fordcrown_victoria_hood_unmarked_tan",
+        "fordcrown_victoria_hood_unmarked_teal",
+        "fordcrown_victoria_hood_unmarked_blue",
+        "fordcrown_victoria_hood_unmarked_black",
+        "fordcrown_victoria_hood_unmarked_white",
+        "fordcrown_victoria_hood_unmarked_darkblue",
+        "fordcrown_victoria_hood_unmarked_SheriffRust"
+      ]
+    },
+    {
+      "ClassName": "fordcrown_victoria_codriver_unmarked_Sheriff",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fordcrown_victoria_codriver_unmarked_red",
+        "fordcrown_victoria_codriver_unmarked_tan",
+        "fordcrown_victoria_codriver_unmarked_teal",
+        "fordcrown_victoria_codriver_unmarked_blue",
+        "fordcrown_victoria_codriver_unmarked_black",
+        "fordcrown_victoria_codriver_unmarked_white",
+        "fordcrown_victoria_codriver_unmarked_darkblue",
+        "fordcrown_victoria_codriver_unmarked_SheriffRust"
+      ]
+    },
+    {
+      "ClassName": "gmc_driverdoor_police",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ChevroletTahoe_driverdoor_Sheriff",
+        "ChevroletTahoe_driverdoor_SheriffRust"
+      ]
+    },
+    {
+      "ClassName": "gmc_codrvier_police",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ChevroletTahoe_codriver_Sheriff",
+        "ChevroletTahoe_codriver_SheriffRust"
+      ]
+    },
+    {
+      "ClassName": "gmc_cargo1_police",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ChevroletTahoe_cargo1_Sheriff",
+        "ChevroletTahoe_cargo1_SheriffRust"
+      ]
+    },
+    {
+      "ClassName": "gmc_hood_police",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ChevroletTahoe_hood_Sheriff",
+        "ChevroletTahoe_hood_SheriffRust"
+      ]
+    },
+    {
+      "ClassName": "gmc_trunk_1_police",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "gmc_trunk_2_police",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ChevroletTahoe_trunk_Sheriff",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ChevroletTahoe_trunk_SheriffRust"
+      ]
+    },
+    {
+      "ClassName": "gmc_cargo2_police",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ChevroletTahoe_cargo2_Sheriff",
+        "ChevroletTahoe_cargo2_SheriffRust"
+      ]
+    }
+  ]
+}

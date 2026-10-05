@@ -1,0 +1,140 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Dodge Challenger Parts",
+  "Icon": "Bolt",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 100,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "Dodge_Challenger_CoDriver",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "Variants": [
+        "Dodge_Challenger_CoDriver_Black",
+        "Dodge_Challenger_CoDriver_Blue",
+        "Dodge_Challenger_CoDriver_Orange",
+        "Dodge_Challenger_CoDriver_Red"
+      ]
+    },
+  {
+    "ClassName": "Dodge_Challenger_CoDriver_White",
+    "MaxPriceThreshold": 2500,
+    "MinPriceThreshold": 2500,
+    "SellPricePercent": 10,
+    "MaxStockThreshold": 1,
+    "MinStockThreshold": 1,
+    "QuantityPercent": -1,
+    "Variants": [
+      "dodge_challenger_codriver_pink",
+        "Dodge_Challenger_CoDriver_DarkBlue",
+        "Dodge_Challenger_CoDriver_Green",
+      "dodge_challenger_codriver_gray"
+    ]
+  },
+    {
+      "ClassName": "Dodge_Challenger_Driver",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "Variants": [
+        "Dodge_Challenger_Driver_Black",
+        "Dodge_Challenger_Driver_Orange",
+      "dodge_challenger_driver_gray",
+        "Dodge_Challenger_Driver_Red"
+      ]
+    },
+  {
+    "ClassName": "Dodge_Challenger_Driver_White",
+    "MaxPriceThreshold": 2500,
+    "MinPriceThreshold": 2500,
+    "SellPricePercent": 10,
+    "MaxStockThreshold": 1,
+    "MinStockThreshold": 1,
+    "QuantityPercent": -1,
+    "Variants": [
+        "Dodge_Challenger_Driver_Blue",
+        "Dodge_Challenger_Driver_DarkBlue",
+        "Dodge_Challenger_Driver_Green",
+      "dodge_challenger_driver_pink"
+    ]
+  },
+    {
+      "ClassName": "Dodge_Challenger_Hood",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "Variants": [
+        "Dodge_Challenger_Hood_Black",
+        "Dodge_Challenger_Hood_Orange",
+      "dodge_challenger_hood_gray",
+        "Dodge_Challenger_Hood_Red"
+      ]
+    },
+  {
+    "ClassName": "Dodge_Challenger_Hood_White",
+    "MaxPriceThreshold": 2500,
+    "MinPriceThreshold": 2500,
+    "SellPricePercent": 10,
+    "MaxStockThreshold": 1,
+    "MinStockThreshold": 1,
+    "QuantityPercent": -1,
+    "Variants": [
+        "Dodge_Challenger_Hood_Blue",
+        "Dodge_Challenger_Hood_DarkBlue",
+        "Dodge_Challenger_Hood_Green",
+      "dodge_challenger_hood_pink"
+    ]
+  },
+    {
+      "ClassName": "Dodge_Challenger_Trunk",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "Variants": [
+        "Dodge_Challenger_Trunk_Black",
+        "Dodge_Challenger_Trunk_Orange",
+      "dodge_challenger_trunk_gray",
+        "Dodge_Challenger_Trunk_Red"
+      ]
+    },
+  {
+    "ClassName": "Dodge_Challenger_Trunk_White",
+    "MaxPriceThreshold": 2500,
+    "MinPriceThreshold": 2500,
+    "SellPricePercent": 10,
+    "MaxStockThreshold": 1,
+    "MinStockThreshold": 1,
+    "QuantityPercent": -1,
+    "Variants": [
+      "dodge_challenger_trunk_pink",
+        "Dodge_Challenger_Trunk_Blue",
+        "Dodge_Challenger_Trunk_DarkBlue",
+        "Dodge_Challenger_Trunk_Green"
+    ]
+  },
+    {
+      "ClassName": "Dodge_Challenger_Wheel",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "Variants": []
+    }
+  ]
+}

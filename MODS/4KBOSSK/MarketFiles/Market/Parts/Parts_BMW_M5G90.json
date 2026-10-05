@@ -1,0 +1,141 @@
+{
+  "m_Version": 12,
+  "DisplayName": "BMW M5G90 Parts",
+  "Icon": "Bolt",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 75.0,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "bmw_m5g90_driverdoor_black",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "bmw_m5g90_driverdoor_pink",
+        "bmw_m5g90_driverdoor_darkblue",
+        "bmw_m5g90_driverdoor_lightblue",
+        "bmw_m5g90_driverdoor_blue",
+        "bmw_m5g90_driverdoor_orange",
+        "bmw_m5g90_driverdoor_red",
+        "bmw_m5g90_driverdoor_white",
+        "bmw_m5g90_driverdoor_green"
+      ]
+    },
+    {
+      "ClassName": "bmw_m5g90_trunk_black",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "bmw_m5g90_trunk_pink",
+        "bmw_m5g90_trunk_darkblue",
+        "bmw_m5g90_trunk_lightblue",
+        "bmw_m5g90_trunk_blue",
+        "bmw_m5g90_trunk_orange",
+        "bmw_m5g90_trunk_red",
+        "bmw_m5g90_trunk_white",
+        "bmw_m5g90_trunk_green"
+      ]
+    },
+    {
+      "ClassName": "bmw_m5g90_codriver_black",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "bmw_m5g90_codriver_pink",
+        "bmw_m5g90_codriver_darkblue",
+        "bmw_m5g90_codriver_lightblue",
+        "bmw_m5g90_codriver_blue",
+        "bmw_m5g90_codriver_orange",
+        "bmw_m5g90_codriver_red",
+        "bmw_m5g90_codriver_white",
+        "bmw_m5g90_codriver_green"
+      ]
+    },
+    {
+      "ClassName": "bmw_m5g90_hood_black",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "bmw_m5g90_hood_pink",
+        "bmw_m5g90_hood_darkblue",
+        "bmw_m5g90_hood_lightblue",
+        "bmw_m5g90_hood_blue",
+        "bmw_m5g90_hood_orange",
+        "bmw_m5g90_hood_red",
+        "bmw_m5g90_hood_white",
+        "bmw_m5g90_hood_green"
+      ]
+    },
+    {
+      "ClassName": "bmw_m5g90_cargo1_black",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "bmw_m5g90_cargo1_pink",
+        "bmw_m5g90_cargo1_darkblue",
+        "bmw_m5g90_cargo1_lightblue",
+        "bmw_m5g90_cargo1_blue",
+        "bmw_m5g90_cargo1_orange",
+        "bmw_m5g90_cargo1_red",
+        "bmw_m5g90_cargo1_white",
+        "bmw_m5g90_cargo1_green"
+      ]
+    },
+    {
+      "ClassName": "bmw_m5g90_cargo2_black",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "bmw_m5g90_cargo2_pink",
+        "bmw_m5g90_cargo2_darkblue",
+        "bmw_m5g90_cargo2_lightblue",
+        "bmw_m5g90_cargo2_blue",
+        "bmw_m5g90_cargo2_orange",
+        "bmw_m5g90_cargo2_red",
+        "bmw_m5g90_cargo2_white",
+        "bmw_m5g90_cargo2_green"
+      ]
+    },
+    {
+      "ClassName": "bmw_m5g90_wheel",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

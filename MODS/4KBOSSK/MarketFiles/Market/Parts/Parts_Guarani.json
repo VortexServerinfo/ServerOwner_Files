@@ -1,0 +1,48 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Guarani Parts",
+  "Icon": "Bolt",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 100,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "BXD_Guarani_Wheel",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "BXD_Guarani_Doors_Driver",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "BXD_Guarani_Doors_Driver_baixada",
+        "BXD_Guarani_Doors_Driver_Black",
+        "bxd_guarani_doors_driver_tancamo",
+        "BXD_Guarani_Doors_Driver_ferrugem"
+      ]
+    },
+    {
+      "ClassName": "Grenade_Pack",
+      "MaxPriceThreshold": 95000,
+      "MinPriceThreshold": 85000,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

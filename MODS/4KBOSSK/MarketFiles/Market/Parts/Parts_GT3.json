@@ -1,0 +1,101 @@
+{
+  "m_Version": 12,
+  "DisplayName": "GT3 Parts",
+  "Icon": "Bolt",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 75.0,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "gt3_driverdoor_darkblue",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "gt3_driverdoor_pink",
+        "gt3_driverdoor_lighblue",
+        "gt3_driverdoor_blue",
+        "gt3_driverdoor_white",
+        "gt3_driverdoor_yellow",
+        "gt3_driverdoor_green",
+        "gt3_driverdoor_red",
+        "gt3_driverdoor_orange"
+      ]
+    },
+    {
+      "ClassName": "gt3_trunk_darkblue",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "gt3_trunk_pink",
+        "gt3_trunk_lighblue",
+        "gt3_trunk_blue",
+        "gt3_trunk_white",
+        "gt3_trunk_yellow",
+        "gt3_trunk_green",
+        "gt3_trunk_red",
+        "gt3_trunk_orange"
+      ]
+    },
+    {
+      "ClassName": "gt3_codriver_darkblue",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "gt3_codriver_pink",
+        "gt3_codriver_lighblue",
+        "gt3_codriver_blue",
+        "gt3_codriver_white",
+        "gt3_codriver_yellow",
+        "gt3_codriver_green",
+        "gt3_codriver_red",
+        "gt3_codriver_orange"
+      ]
+    },
+    {
+      "ClassName": "gt3_hood_darkblue",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "gt3_hood_pink",
+        "gt3_hood_lighblue",
+        "gt3_hood_blue",
+        "gt3_hood_white",
+        "gt3_hood_yellow",
+        "gt3_hood_green",
+        "gt3_hood_red",
+        "gt3_hood_orange"
+      ]
+    },
+    {
+      "ClassName": "gt3_wheel",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

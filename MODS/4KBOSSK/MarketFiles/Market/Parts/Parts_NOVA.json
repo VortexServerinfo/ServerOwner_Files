@@ -1,0 +1,159 @@
+{
+  "m_Version": 12,
+  "DisplayName": "NOVA",
+  "Icon": "Bolt",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 100,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "chevrolet_napalmnova_codriver",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "Variants": [
+        "Chevrolet_NapalmNova_CoDriver_Green",
+        "Chevrolet_NapalmNova_CoDriver_Orange",
+        "Chevrolet_NapalmNova_CoDriver_Pink",
+        "Chevrolet_NapalmNova_CoDriver_Purple",
+        "Chevrolet_NapalmNova_CoDriver_Red",
+        "Chevrolet_NapalmNova_CoDriver_Blue",
+        "Chevrolet_NapalmNova_CoDriver_Yellow"
+      ]
+    },
+  {
+    "ClassName": "Chevrolet_NapalmNova_CoDriver_White",
+    "MaxPriceThreshold": 2500,
+    "MinPriceThreshold": 2500,
+    "SellPricePercent": 10,
+    "MaxStockThreshold": 1,
+    "MinStockThreshold": 1,
+    "QuantityPercent": -1,
+    "Variants": [
+      "chevrolet_napalmnova_codriver_camored",
+      "chevrolet_napalmnova_codriver_camogreen",
+      "chevrolet_napalmnova_codriver_reptile",
+      "chevrolet_napalmnova_codriver_nightfrost",
+      "chevrolet_napalmnova_codriver_topo",
+      "chevrolet_napalmnova_codriver_skull"
+    ]
+  },
+    {
+      "ClassName": "chevrolet_napalmnova_driverdoor",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "Variants": [
+        "Chevrolet_NapalmNova_Driverdoor_Green",
+        "Chevrolet_NapalmNova_Driverdoor_Orange",
+        "Chevrolet_NapalmNova_Driverdoor_Pink",
+        "Chevrolet_NapalmNova_Driverdoor_Purple",
+        "Chevrolet_NapalmNova_Driverdoor_Red",
+        "Chevrolet_NapalmNova_Driverdoor_Blue",
+        "Chevrolet_NapalmNova_Driverdoor_Yellow"
+      ]
+    },
+  {
+    "ClassName": "Chevrolet_NapalmNova_Driverdoor_White",
+    "MaxPriceThreshold": 2500,
+    "MinPriceThreshold": 2500,
+    "SellPricePercent": 10,
+    "MaxStockThreshold": 1,
+    "MinStockThreshold": 1,
+    "QuantityPercent": -1,
+    "Variants": [
+      "chevrolet_napalmnova_driverdoor_nightfrost",
+      "chevrolet_napalmnova_driverdoor_camored",
+      "chevrolet_napalmnova_driverdoor_reptile",
+      "chevrolet_napalmnova_driverdoor_topo",
+      "chevrolet_napalmnova_driverdoor_skull",
+      "chevrolet_napalmnova_driverdoor_camogreen"
+    ]
+  },
+    {
+      "ClassName": "chevrolet_napalmnova_hood",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "Variants": [
+        "Chevrolet_NapalmNova_Hood_Blue",
+        "Chevrolet_NapalmNova_Hood_Green",
+        "Chevrolet_NapalmNova_Hood_Orange",
+        "Chevrolet_NapalmNova_Hood_Pink",
+        "Chevrolet_NapalmNova_Hood_Purple",
+        "Chevrolet_NapalmNova_Hood_Red",
+        "Chevrolet_NapalmNova_Hood_Yellow"
+      ]
+    },
+  {
+    "ClassName": "Chevrolet_NapalmNova_Hood_White",
+    "MaxPriceThreshold": 2500,
+    "MinPriceThreshold": 2500,
+    "SellPricePercent": 10,
+    "MaxStockThreshold": 1,
+    "MinStockThreshold": 1,
+    "QuantityPercent": -1,
+    "Variants": [
+      "chevrolet_napalmnova_hood_topo",
+      "chevrolet_napalmnova_hood_camogreen",
+      "chevrolet_napalmnova_hood_reptile",
+      "chevrolet_napalmnova_hood_nightfrost",
+      "chevrolet_napalmnova_hood_skull",
+      "chevrolet_napalmnova_hood_camored"
+    ]
+  },
+    {
+      "ClassName": "chevrolet_napalmnova_trunk",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "Variants": [
+        "Chevrolet_NapalmNova_Trunk_Blue",
+        "Chevrolet_NapalmNova_Trunk_Green",
+        "Chevrolet_NapalmNova_Trunk_Orange",
+        "Chevrolet_NapalmNova_Trunk_Pink",
+        "Chevrolet_NapalmNova_Trunk_Purple",
+        "Chevrolet_NapalmNova_Trunk_Red",
+        "Chevrolet_NapalmNova_Trunk_Yellow"
+      ]
+    },
+  {
+    "ClassName": "Chevrolet_NapalmNova_Trunk_White",
+    "MaxPriceThreshold": 2500,
+    "MinPriceThreshold": 2500,
+    "SellPricePercent": 10,
+    "MaxStockThreshold": 1,
+    "MinStockThreshold": 1,
+    "QuantityPercent": -1,
+    "Variants": [
+      "chevrolet_napalmnova_trunk_reptile",
+      "chevrolet_napalmnova_trunk_skull",
+      "chevrolet_napalmnova_trunk_camogreen",
+      "chevrolet_napalmnova_trunk_topo",
+      "chevrolet_napalmnova_trunk_camored"
+    ]
+  },
+    {
+      "ClassName": "Chevrolet_NapalmNova_Wheel",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "Variants": []
+    }
+  ]
+}

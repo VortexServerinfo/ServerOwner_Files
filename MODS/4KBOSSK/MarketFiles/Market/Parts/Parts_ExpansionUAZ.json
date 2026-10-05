@@ -1,0 +1,77 @@
+{
+  "m_Version": 12,
+  "DisplayName": "ExpansionUAZ Parts",
+  "Icon": "Bolt",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 75.0,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "expansionuaz_driverdoor_black",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "expansionuaz_driverdoor_green",
+        "expansionuaz_driverdoor_lightgreen"
+      ]
+    },
+    {
+      "ClassName": "expansionuaz_codriverdoor_black",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "expansionuaz_codriverdoor_green",
+        "expansionuaz_codriverdoor_lightgreen"
+      ]
+    },
+    {
+      "ClassName": "expansionuaz_trunk_black",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "expansionuaz_trunk_green",
+        "expansionuaz_trunk_lightgreen"
+      ]
+    },
+    {
+      "ClassName": "expansionuaz_hood_black",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "expansionuaz_hood_green",
+        "expansionuaz_hood_lightgreen"
+      ]
+    },
+    {
+      "ClassName": "expansionuaz_wheel",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

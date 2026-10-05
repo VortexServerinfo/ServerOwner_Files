@@ -1,0 +1,134 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Audi Parts",
+  "Icon": "Bolt",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 100,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "Audi_RS6_ABT_Cargo1_Black",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "Variants": [
+        "Audi_RS6_ABT_Cargo1_Blue",
+        "Audi_RS6_ABT_Cargo1_Green",
+        "Audi_RS6_ABT_Cargo1_MidNightBlue",
+        "Audi_RS6_ABT_Cargo1_Pink",
+        "Audi_RS6_ABT_Cargo1_Red",
+        "Audi_RS6_ABT_Cargo1_Teal",
+		"audi_rs6_abt_cargo1_white",
+        "Audi_RS6_ABT_Cargo1_Yellow"
+      ]
+    },
+    {
+      "ClassName": "Audi_RS6_ABT_Cargo2_Black",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "Variants": [
+        "Audi_RS6_ABT_Cargo2_Blue",
+        "Audi_RS6_ABT_Cargo2_Green",
+        "Audi_RS6_ABT_Cargo2_MidNightBlue",
+        "Audi_RS6_ABT_Cargo2_Pink",
+        "Audi_RS6_ABT_Cargo2_Red",
+        "Audi_RS6_ABT_Cargo2_Teal",
+		"audi_rs6_abt_cargo2_white",
+        "Audi_RS6_ABT_Cargo2_Yellow"
+      ]
+    },
+    {
+      "ClassName": "Audi_RS6_ABT_CoDriver_Black",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "Variants": [
+        "Audi_RS6_ABT_CoDriver_Blue",
+        "Audi_RS6_ABT_CoDriver_Green",
+        "Audi_RS6_ABT_CoDriver_MidNightBlue",
+        "Audi_RS6_ABT_CoDriver_Pink",
+        "Audi_RS6_ABT_CoDriver_Red",
+        "Audi_RS6_ABT_CoDriver_Teal",
+		 "audi_rs6_abt_codriver_white",
+        "Audi_RS6_ABT_CoDriver_Yellow"
+      ]
+    },
+    {
+      "ClassName": "Audi_RS6_ABT_Driver_Black",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "Variants": [
+        "Audi_RS6_ABT_Driver_Blue",
+        "Audi_RS6_ABT_Driver_Green",
+        "Audi_RS6_ABT_Driver_MidNightBlue",
+        "Audi_RS6_ABT_Driver_Pink",
+        "Audi_RS6_ABT_Driver_Red",
+        "Audi_RS6_ABT_Driver_Teal",
+		"audi_rs6_abt_driver_white",
+        "Audi_RS6_ABT_Driver_Yellow"
+      ]
+    },
+    {
+      "ClassName": "Audi_RS6_ABT_Hood_Black",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "Variants": [
+        "Audi_RS6_ABT_Hood_Blue",
+        "Audi_RS6_ABT_Hood_Green",
+        "Audi_RS6_ABT_Hood_MidNightBlue",
+        "Audi_RS6_ABT_Hood_Pink",
+        "Audi_RS6_ABT_Hood_Red",
+        "Audi_RS6_ABT_Hood_Teal",
+		"audi_rs6_abt_hood_white",
+        "Audi_RS6_ABT_Hood_Yellow"
+      ]
+    },
+    {
+      "ClassName": "Audi_RS6_ABT_Trunk_Black",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "Variants": [
+        "Audi_RS6_ABT_Trunk_Blue",
+        "Audi_RS6_ABT_Trunk_Green",
+        "Audi_RS6_ABT_Trunk_MidNightBlue",
+        "Audi_RS6_ABT_Trunk_Pink",
+        "Audi_RS6_ABT_Trunk_Red",
+        "Audi_RS6_ABT_Trunk_Teal",
+		 "audi_rs6_abt_trunk_white",
+        "Audi_RS6_ABT_Trunk_Yellow"
+      ]
+    },
+    {
+      "ClassName": "Audi_RS6_ABT_Wheel",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 10,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "Variants": []
+    }
+  ]
+}

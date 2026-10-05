@@ -1,0 +1,132 @@
+{
+  "m_Version": 12,
+  "DisplayName": "BRONCO",
+  "Icon": "Bolt",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 100,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "Bronco_Codriverdoor",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "Variants": [
+        "Bronco_Codriverdoor_Black",
+        "Bronco_Codriverdoor_Blue",
+        "Bronco_Codriverdoor_Rust"
+      ]
+    },
+  {
+    "ClassName": "Bronco_Codriverdoor_Hunter",
+    "MaxPriceThreshold": 2500,
+    "MinPriceThreshold": 2500,
+    "SellPricePercent": 50,
+    "MaxStockThreshold": 1,
+    "MinStockThreshold": 1,
+    "QuantityPercent": -1,
+    "Variants": [
+      "bronco_codriverdoor_red",
+      "bronco_codriverdoor_darkblue",
+      "bronco_codriverdoor_chinalake"
+    ]
+  },
+    {
+      "ClassName": "Bronco_Driverdoor",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "Variants": [
+        "Bronco_Driverdoor_Black",
+        "Bronco_Driverdoor_Blue",
+        "Bronco_Driverdoor_Rust"
+      ]
+    },
+  {
+    "ClassName": "Bronco_Driverdoor_Hunter",
+    "MaxPriceThreshold": 2500,
+    "MinPriceThreshold": 2500,
+    "SellPricePercent": 50,
+    "MaxStockThreshold": 1,
+    "MinStockThreshold": 1,
+    "QuantityPercent": -1,
+    "Variants": [
+      "bronco_driverdoor_red",
+      "bronco_driverdoor_darkblue",
+      "bronco_driverdoor_chinalake"
+    ]
+  },
+    {
+      "ClassName": "Bronco_Hood",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "Variants": [
+        "Bronco_Hood_Black",
+        "Bronco_Hood_Blue",
+        "Bronco_Hood_Rust"
+      ]
+    },
+  {
+    "ClassName": "Bronco_Hood_Hunter",
+    "MaxPriceThreshold": 2500,
+    "MinPriceThreshold": 2500,
+    "SellPricePercent": 50,
+    "MaxStockThreshold": 1,
+    "MinStockThreshold": 1,
+    "QuantityPercent": -1,
+    "Variants": [
+      "bronco_hood_red",
+      "bronco_hood_chinalake",
+      "bronco_hood_darkblue"
+    ]
+  },
+    {
+      "ClassName": "Bronco_Trunk",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "Variants": [
+        "Bronco_Trunk_Black",
+        "Bronco_Trunk_Blue",
+        "Bronco_Trunk_Rust"
+      ]
+    },
+  {
+    "ClassName": "Bronco_Trunk_Hunter",
+    "MaxPriceThreshold": 2500,
+    "MinPriceThreshold": 2500,
+    "SellPricePercent": 50,
+    "MaxStockThreshold": 1,
+    "MinStockThreshold": 1,
+    "QuantityPercent": -1,
+    "Variants": [
+      "bronco_trunk_chinalake",
+      "bronco_trunk_darkblue",
+      "bronco_trunk_red"
+    ]
+  },
+    {
+      "ClassName": "bronco_wheel",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "Variants": []
+    }
+  ]
+}

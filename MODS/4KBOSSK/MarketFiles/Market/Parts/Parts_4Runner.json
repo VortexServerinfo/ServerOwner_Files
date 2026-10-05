@@ -1,0 +1,271 @@
+{
+  "m_Version": 12,
+  "DisplayName": "ToyotaRunner Parts",
+  "Icon": "Bolt",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 100,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "Runner_Cargo1",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "Variants": [
+        "Runner_Cargo1_blue",
+        "Runner_Cargo1_BOSS",
+        "Runner_Cargo1_camoblack",
+        "Runner_Cargo1_camoblue",
+        "Runner_Cargo1_camogreen",
+        "Runner_Cargo1_camopink",
+        "Runner_Cargo1_camopurple",
+        "Runner_Cargo1_camored",
+        "Runner_Cargo1_camowhite",
+        "Runner_Cargo1_pink",
+        "Runner_Cargo1_red",
+        "Runner_Cargo1_yellow"
+      ]
+    },
+    {
+      "ClassName": "Runner_Cargo1_white",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "Variants": [
+        "runner_cargo1_sandstorm",
+        "runner_cargo1_camowoodland",
+        "runner_cargo1_icebreaker",
+        "runner_cargo1_chinalake",
+        "runner_cargo1_brown",
+        "runner_cargo1_urbantiegr",
+        "runner_cargo1_cyan",
+        "runner_cargo1_offgrid"
+      ]
+    },
+    {
+      "ClassName": "Runner_Cargo2",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "Variants": [
+        "Runner_Cargo2_blue",
+        "Runner_Cargo2_BOSS",
+        "Runner_Cargo2_camoblack",
+        "Runner_Cargo2_camoblue",
+        "Runner_Cargo2_camogreen",
+        "Runner_Cargo2_camopink",
+        "Runner_Cargo2_camopurple",
+        "Runner_Cargo2_camored",
+        "Runner_Cargo2_camowhite",
+        "Runner_Cargo2_pink",
+        "Runner_Cargo2_red",
+        "Runner_Cargo2_yellow"
+      ]
+    },
+    {
+      "ClassName": "Runner_Cargo2_white",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "Variants": [
+        "runner_cargo2_cyan",
+        "runner_cargo2_offgrid",
+        "runner_cargo2_brown",
+        "runner_cargo2_icebreaker",
+        "runner_cargo2_sandstorm",
+        "runner_cargo2_chinalake",
+        "runner_cargo2_urbantiegr",
+        "runner_cargo2_camowoodland"
+      ]
+    },
+    {
+      "ClassName": "Runner_CoDriver_Door",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "Variants": [
+        "Runner_CoDriver_Door_blue",
+        "Runner_CoDriver_Door_BOSS",
+        "Runner_CoDriver_Door_camoblack",
+        "Runner_CoDriver_Door_camoblue",
+        "Runner_CoDriver_Door_camogreen",
+        "Runner_CoDriver_Door_camopink",
+        "Runner_CoDriver_Door_camopurple",
+        "Runner_CoDriver_Door_camored",
+        "Runner_CoDriver_Door_camowhite",
+        "Runner_CoDriver_Door_pink",
+        "Runner_CoDriver_Door_red",
+        "Runner_CoDriver_Door_yellow"
+      ]
+    },
+  {
+    "ClassName": "Runner_CoDriver_Door_white",
+    "MaxPriceThreshold": 2500,
+    "MinPriceThreshold": 2500,
+    "SellPricePercent": 50,
+    "MaxStockThreshold": 1,
+    "MinStockThreshold": 1,
+    "QuantityPercent": -1,
+    "Variants": [
+      "runner_driverdoor_offgrid",
+      "runner_driverdoor_icebreaker",
+      "runner_driverdoor_camowoodland",
+      "runner_driverdoor_chinalake",
+      "runner_driverdoor_cyan",
+      "runner_driverdoor_urbantiegr",
+      "runner_driverdoor_brown",
+      "runner_driverdoor_sandstorm"
+    ]
+  },
+    {
+      "ClassName": "Runner_DriverDoor_white",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "Variants": [
+        "runner_codriver_door_cyan",
+        "runner_codriver_door_icebreaker",
+        "runner_codriver_door_camowoodland",
+        "runner_codriver_door_chinalake",
+        "runner_codriver_door_sandstorm",
+        "runner_codriver_door_urbantiegr",
+        "runner_codriver_door_offgrid",
+        "runner_codriver_door_brown"
+      ]
+    },
+    {
+      "ClassName": "Runner_DriverDoor",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "Variants": [
+        "Runner_DriverDoor_blue",
+        "Runner_DriverDoor_BOSS",
+        "Runner_DriverDoor_camoblack",
+        "Runner_DriverDoor_camoblue",
+        "Runner_DriverDoor_camogreen",
+        "Runner_DriverDoor_camopink",
+        "Runner_DriverDoor_camopurple",
+        "Runner_DriverDoor_camored",
+        "Runner_DriverDoor_camowhite",
+        "Runner_DriverDoor_pink",
+        "Runner_DriverDoor_red",
+        "Runner_DriverDoor_yellow"
+      ]
+    },
+    {
+      "ClassName": "Runner_Hood",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "Variants": [
+        "Runner_Hood_blue",
+        "Runner_Hood_BOSS",
+        "Runner_Hood_camoblack",
+        "Runner_Hood_camoblue",
+        "Runner_Hood_camogreen",
+        "Runner_Hood_camopink",
+        "Runner_Hood_camopurple",
+        "Runner_Hood_camored",
+        "Runner_Hood_camowhite",
+        "Runner_Hood_pink",
+        "Runner_Hood_red",
+        "Runner_Hood_yellow"
+      ]
+    },
+    {
+      "ClassName": "Runner_Hood_white",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "Variants": [
+        "runner_hood_icebreaker",
+        "runner_hood_sandstorm",
+        "runner_hood_urbantiegr",
+        "runner_hood_offgrid",
+        "runner_hood_chinalake",
+        "runner_hood_cyan",
+        "runner_hood_camowoodland",
+        "runner_hood_brown"
+      ]
+    },
+    {
+      "ClassName": "Runner_Trunk",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "Variants": [
+        "Runner_Trunk_blue",
+        "Runner_Trunk_BOSS",
+        "Runner_Trunk_camoblack",
+        "Runner_Trunk_camoblue",
+        "Runner_Trunk_camogreen",
+        "Runner_Trunk_camopink",
+        "Runner_Trunk_camopurple",
+        "Runner_Trunk_camored",
+        "Runner_Trunk_camowhite",
+        "Runner_Trunk_red",
+        "Runner_Trunk_yellow"
+      ]
+    },
+  {
+    "ClassName": "Runner_Trunk_white",
+    "MaxPriceThreshold": 2500,
+    "MinPriceThreshold": 2500,
+    "SellPricePercent": 50,
+    "MaxStockThreshold": 1,
+    "MinStockThreshold": 1,
+    "QuantityPercent": -1,
+    "Variants": [
+      "runner_trunk_icebreaker",
+      "runner_trunk_sandstorm",
+      "runner_trunk_offgrid",
+      "runner_trunk_chinalake",
+      "runner_trunk_urbantiegr",
+      "runner_trunk_brown",
+      "runner_trunk_cyan",
+      "runner_trunk_camowoodland"
+    ]
+  },
+    {
+      "ClassName": "Runner_Wheel",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": 50,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "Variants": []
+    }
+  ]
+}
