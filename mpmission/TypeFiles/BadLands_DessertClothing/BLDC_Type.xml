@@ -1,0 +1,752 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<types>
+<type name="Camo1_Jacket_DpmDesert">
+    <nominal>5</nominal>
+    <lifetime>2700</lifetime>
+    <restock>1800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="clothing"/>
+    <tag name="floor"/>
+    <tag name="ground"/>
+    <usage name="Military"/>
+</type>
+
+<type name="Camo1_USMC_Pants_MarpatDesert">
+    <nominal>5</nominal>
+    <lifetime>2700</lifetime>
+    <restock>1800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="clothing"/>
+    <tag name="floor"/>
+    <tag name="ground"/>
+    <usage name="Military"/>
+</type>
+
+<type name="Camo1_taloon_Desert">
+    <nominal>5</nominal>
+    <lifetime>2700</lifetime>
+    <restock>1800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="clothing"/>
+    <tag name="floor"/>
+    <tag name="ground"/>
+    <usage name="Military"/>
+</type>
+
+<type name="Camo2_Jacket_DpmDesert">
+    <nominal>5</nominal>
+    <lifetime>2700</lifetime>
+    <restock>1800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="clothing"/>
+    <tag name="floor"/>
+    <tag name="ground"/>
+    <usage name="Military"/>
+</type>
+
+<type name="Camo2_USMC_Pants_MarpatDesert">
+    <nominal>5</nominal>
+    <lifetime>2700</lifetime>
+    <restock>1800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="clothing"/>
+    <tag name="floor"/>
+    <tag name="ground"/>
+    <usage name="Military"/>
+</type>
+
+<type name="Camo2_taloon_Desert">
+    <nominal>5</nominal>
+    <lifetime>2700</lifetime>
+    <restock>1800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="clothing"/>
+    <tag name="floor"/>
+    <tag name="ground"/>
+    <usage name="Military"/>
+</type>
+
+<type name="Camo3_Jacket_DpmDesert">
+    <nominal>5</nominal>
+    <lifetime>2700</lifetime>
+    <restock>1800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="clothing"/>
+    <tag name="floor"/>
+    <tag name="ground"/>
+    <usage name="Military"/>
+</type>
+
+<type name="Camo3_USMC_Pants_MarpatDesert">
+    <nominal>5</nominal>
+    <lifetime>2700</lifetime>
+    <restock>1800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="clothing"/>
+    <tag name="floor"/>
+    <tag name="ground"/>
+    <usage name="Military"/>
+</type>
+
+<type name="Camo3_taloon_Desert">
+    <nominal>5</nominal>
+    <lifetime>2700</lifetime>
+    <restock>1800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="clothing"/>
+    <tag name="floor"/>
+    <tag name="ground"/>
+    <usage name="Military"/>
+</type>
+
+<type name="Camo4_Jacket_DpmDesert">
+    <nominal>5</nominal>
+    <lifetime>2700</lifetime>
+    <restock>1800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="clothing"/>
+    <tag name="floor"/>
+    <tag name="ground"/>
+    <usage name="Military"/>
+</type>
+
+<type name="Camo4_USMC_Pants_MarpatDesert">
+    <nominal>5</nominal>
+    <lifetime>2700</lifetime>
+    <restock>1800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="clothing"/>
+    <tag name="floor"/>
+    <tag name="ground"/>
+    <usage name="Military"/>
+</type>
+
+<type name="Camo4_taloon_Desert">
+    <nominal>5</nominal>
+    <lifetime>2700</lifetime>
+    <restock>1800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="clothing"/>
+    <tag name="floor"/>
+    <tag name="ground"/>
+    <usage name="Military"/>
+</type>
+
+<type name="Camo5_Jacket_DpmDesert">
+    <nominal>5</nominal>
+    <lifetime>2700</lifetime>
+    <restock>1800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="clothing"/>
+    <tag name="floor"/>
+    <tag name="ground"/>
+    <usage name="Military"/>
+</type>
+
+<type name="Camo5_USMC_Pants_MarpatDesert">
+    <nominal>5</nominal>
+    <lifetime>2700</lifetime>
+    <restock>1800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="clothing"/>
+    <tag name="floor"/>
+    <tag name="ground"/>
+    <usage name="Military"/>
+</type>
+
+<type name="Camo5_taloon_Desert">
+    <nominal>5</nominal>
+    <lifetime>2700</lifetime>
+    <restock>1800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="clothing"/>
+    <tag name="floor"/>
+    <tag name="ground"/>
+    <usage name="Military"/>
+</type>
+
+<type name="Camo6_Jacket_DpmDesert">
+    <nominal>5</nominal>
+    <lifetime>2700</lifetime>
+    <restock>1800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="clothing"/>
+    <tag name="floor"/>
+    <tag name="ground"/>
+    <usage name="Military"/>
+</type>
+
+<type name="Camo6_USMC_Pants_MarpatDesert">
+    <nominal>5</nominal>
+    <lifetime>2700</lifetime>
+    <restock>1800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="clothing"/>
+    <tag name="floor"/>
+    <tag name="ground"/>
+    <usage name="Military"/>
+</type>
+
+<type name="Camo6_taloon_Desert">
+    <nominal>5</nominal>
+    <lifetime>2700</lifetime>
+    <restock>1800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="clothing"/>
+    <tag name="floor"/>
+    <tag name="ground"/>
+    <usage name="Military"/>
+</type>
+
+<type name="Camo7_Jacket_DpmDesert">
+    <nominal>5</nominal>
+    <lifetime>2700</lifetime>
+    <restock>1800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="clothing"/>
+    <tag name="floor"/>
+    <tag name="ground"/>
+    <usage name="Military"/>
+</type>
+
+<type name="Camo7_USMC_Pants_MarpatDesert">
+    <nominal>5</nominal>
+    <lifetime>2700</lifetime>
+    <restock>1800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="clothing"/>
+    <tag name="floor"/>
+    <tag name="ground"/>
+    <usage name="Military"/>
+</type>
+
+<type name="Camo7_taloon_Desert">
+    <nominal>5</nominal>
+    <lifetime>2700</lifetime>
+    <restock>1800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="clothing"/>
+    <tag name="floor"/>
+    <tag name="ground"/>
+    <usage name="Military"/>
+</type>
+
+<type name="Dutch_Jacket_DpmDesert">
+    <nominal>5</nominal>
+    <lifetime>2700</lifetime>
+    <restock>1800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="clothing"/>
+    <tag name="floor"/>
+    <tag name="ground"/>
+    <usage name="Military"/>
+</type>
+
+<type name="Dutch_USMC_Pants_MarpatDesert">
+    <nominal>5</nominal>
+    <lifetime>2700</lifetime>
+    <restock>1800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="clothing"/>
+    <tag name="floor"/>
+    <tag name="ground"/>
+    <usage name="Military"/>
+</type>
+
+<type name="Dutch_taloon_Desert">
+    <nominal>5</nominal>
+    <lifetime>2700</lifetime>
+    <restock>1800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="clothing"/>
+    <tag name="floor"/>
+    <tag name="ground"/>
+    <usage name="Military"/>
+</type>
+
+<type name="German_Jacket_DpmDesert">
+    <nominal>5</nominal>
+    <lifetime>2700</lifetime>
+    <restock>1800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="clothing"/>
+    <tag name="floor"/>
+    <tag name="ground"/>
+    <usage name="Military"/>
+</type>
+
+<type name="German_USMC_Pants_MarpatDesert">
+    <nominal>5</nominal>
+    <lifetime>2700</lifetime>
+    <restock>1800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="clothing"/>
+    <tag name="floor"/>
+    <tag name="ground"/>
+    <usage name="Military"/>
+</type>
+
+<type name="German_taloon_Desert">
+    <nominal>5</nominal>
+    <lifetime>2700</lifetime>
+    <restock>1800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="clothing"/>
+    <tag name="floor"/>
+    <tag name="ground"/>
+    <usage name="Military"/>
+</type>
+
+<type name="Uk_Jacket_DpmDesert">
+    <nominal>5</nominal>
+    <lifetime>2700</lifetime>
+    <restock>1800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="clothing"/>
+    <tag name="floor"/>
+    <tag name="ground"/>
+    <usage name="Military"/>
+</type>
+
+<type name="Uk_USMC_Pants_MarpatDesert">
+    <nominal>5</nominal>
+    <lifetime>2700</lifetime>
+    <restock>1800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="clothing"/>
+    <tag name="floor"/>
+    <tag name="ground"/>
+    <usage name="Military"/>
+</type>
+
+<type name="UK_taloon_Desert">
+    <nominal>5</nominal>
+    <lifetime>2700</lifetime>
+    <restock>1800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="clothing"/>
+    <tag name="floor"/>
+    <tag name="ground"/>
+    <usage name="Military"/>
+</type>
+
+<type name="Usa_Jacket_DpmDesert">
+    <nominal>5</nominal>
+    <lifetime>2700</lifetime>
+    <restock>1800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="clothing"/>
+    <tag name="floor"/>
+    <tag name="ground"/>
+    <usage name="Military"/>
+</type>
+
+<type name="Usa_USMC_Pants_MarpatDesert">
+    <nominal>5</nominal>
+    <lifetime>2700</lifetime>
+    <restock>1800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="clothing"/>
+    <tag name="floor"/>
+    <tag name="ground"/>
+    <usage name="Military"/>
+</type>
+
+<type name="USA_taloon_Desert">
+    <nominal>5</nominal>
+    <lifetime>2700</lifetime>
+    <restock>1800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="clothing"/>
+    <tag name="floor"/>
+    <tag name="ground"/>
+    <usage name="Military"/>
+</type>
+
+<type name="Camo1_hoodie_desert">
+    <nominal>5</nominal>
+    <lifetime>2700</lifetime>
+    <restock>1800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="clothing"/>
+    <tag name="floor"/>
+    <tag name="ground"/>
+    <usage name="Military"/>
+</type>
+
+<type name="Camo2_hoodie_desert">
+    <nominal>5</nominal>
+    <lifetime>2700</lifetime>
+    <restock>1800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="clothing"/>
+    <tag name="floor"/>
+    <tag name="ground"/>
+    <usage name="Military"/>
+</type>
+
+<type name="Camo3_hoodie_desert">
+    <nominal>5</nominal>
+    <lifetime>2700</lifetime>
+    <restock>1800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="clothing"/>
+    <tag name="floor"/>
+    <tag name="ground"/>
+    <usage name="Military"/>
+</type>
+
+<type name="Camo4_hoodie_desert">
+    <nominal>5</nominal>
+    <lifetime>2700</lifetime>
+    <restock>1800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="clothing"/>
+    <tag name="floor"/>
+    <tag name="ground"/>
+    <usage name="Military"/>
+</type>
+
+<type name="Camo5_hoodie_desert">
+    <nominal>5</nominal>
+    <lifetime>2700</lifetime>
+    <restock>1800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="clothing"/>
+    <tag name="floor"/>
+    <tag name="ground"/>
+    <usage name="Military"/>
+</type>
+
+<type name="Camo6_hoodie_desert">
+    <nominal>5</nominal>
+    <lifetime>2700</lifetime>
+    <restock>1800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="clothing"/>
+    <tag name="floor"/>
+    <tag name="ground"/>
+    <usage name="Military"/>
+</type>
+
+<type name="Camo7_hoodie_desert">
+    <nominal>5</nominal>
+    <lifetime>2700</lifetime>
+    <restock>1800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="clothing"/>
+    <tag name="floor"/>
+    <tag name="ground"/>
+    <usage name="Military"/>
+</type>
+
+<type name="Camo8_hoodie_desert">
+    <nominal>5</nominal>
+    <lifetime>2700</lifetime>
+    <restock>1800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="clothing"/>
+    <tag name="floor"/>
+    <tag name="ground"/>
+    <usage name="Military"/>
+</type>
+
+<type name="Uk_SAS_hoodie_Desert">
+    <nominal>5</nominal>
+    <lifetime>2700</lifetime>
+    <restock>1800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="clothing"/>
+    <tag name="floor"/>
+    <tag name="ground"/>
+    <usage name="Military"/>
+</type>
+
+<type name="Uk_Green_hoodie_Desert">
+    <nominal>5</nominal>
+    <lifetime>2700</lifetime>
+    <restock>1800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="clothing"/>
+    <tag name="floor"/>
+    <tag name="ground"/>
+    <usage name="Military"/>
+</type>
+
+<type name="Uk_Green2_hoodie_Desert">
+    <nominal>5</nominal>
+    <lifetime>2700</lifetime>
+    <restock>1800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="clothing"/>
+    <tag name="floor"/>
+    <tag name="ground"/>
+    <usage name="Military"/>
+</type>
+
+<type name="German_hoodie_Desert">
+    <nominal>5</nominal>
+    <lifetime>2700</lifetime>
+    <restock>1800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="clothing"/>
+    <tag name="floor"/>
+    <tag name="ground"/>
+    <usage name="Military"/>
+</type>
+
+<type name="UK_hoodie_Desert">
+    <nominal>5</nominal>
+    <lifetime>2700</lifetime>
+    <restock>1800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="clothing"/>
+    <tag name="floor"/>
+    <tag name="ground"/>
+    <usage name="Military"/>
+</type>
+
+<type name="Badlands_CamoNetPoncho_Desert_1">
+    <nominal>5</nominal>
+    <lifetime>2700</lifetime>
+    <restock>1800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="clothing"/>
+    <tag name="floor"/>
+    <tag name="ground"/>
+    <usage name="Military"/>
+</type>
+
+<type name="Badlands_CamoNetPoncho_Desert_2">
+    <nominal>5</nominal>
+    <lifetime>2700</lifetime>
+    <restock>1800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="clothing"/>
+    <tag name="floor"/>
+    <tag name="ground"/>
+    <usage name="Military"/>
+</type>
+
+<type name="Camo_Green_cargopants_Desert">
+    <nominal>5</nominal>
+    <lifetime>2700</lifetime>
+    <restock>1800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="clothing"/>
+    <tag name="floor"/>
+    <tag name="ground"/>
+    <usage name="Military"/>
+</type>
+
+<type name="Camo_Green2_cargopants_Desert">
+    <nominal>5</nominal>
+    <lifetime>2700</lifetime>
+    <restock>1800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    <category name="clothing"/>
+    <tag name="floor"/>
+    <tag name="ground"/>
+    <usage name="Military"/>
+</type>
+</types>
