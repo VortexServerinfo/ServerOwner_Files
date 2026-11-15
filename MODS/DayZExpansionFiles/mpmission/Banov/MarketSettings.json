@@ -1,0 +1,158 @@
+{
+  "m_Version": 17,
+  "MarketSystemEnabled": 1,
+  "NetworkCategories": [],
+  "CurrencyIcon": "DayZExpansion/Core/GUI/icons/misc/coinstack2_64x64.edds",
+  "ATMSystemEnabled": 1,
+  "MaxDepositMoney": 100000000,
+  "DefaultDepositMoney": 500000,
+  "ATMPlayerTransferEnabled": 1,
+  "ATMPartyLockerEnabled": 1,
+  "MaxPartyDepositMoney": 990000000,
+  "UseWholeMapForATMPlayerList": 1,
+  "SellPricePercent": 50,
+  "NetworkBatchSize": 100,
+  "MaxVehicleDistanceToTrader": 120,
+  "MaxLargeVehicleDistanceToTrader": 500,
+  "LargeVehicles": [
+    "Kamaz_TyphoonK_Black",
+    "Kamaz_TyphoonK_Green",
+    "Kamaz_TyphoonK_CamoGreen2",
+    "Kamaz_TyphoonK_CamoGreen3",
+    "Kamaz_TyphoonK_RedCamo",
+    "Kamaz_TyphoonK_Rusty",
+    "Kamaz_TyphoonK_White"
+  ],
+  "LandSpawnPositions": [
+    {
+      "Position": [
+        7428.907,
+        239.826,
+        4997.525
+      ],
+      "Orientation": [
+        -9.46,
+        0,
+        0
+      ]
+    },
+    {
+      "Position": [
+        9012.688,
+        505.702,
+        13108.596
+      ],
+      "Orientation": [
+        143.02,
+        0,
+        0
+      ]
+    }
+  ],
+  "AirSpawnPositions": [
+    {
+      "Position": [
+        2079.499,
+        276.552,
+        11658.177
+      ],
+      "Orientation": [
+        -177.82,
+        0,
+        0
+      ]
+    },
+    {
+      "Position": [
+        4914.269,
+        209.379,
+        4847.898
+      ],
+      "Orientation": [
+        75.97,
+        0,
+        0
+      ]
+    },
+    {
+      "Position": [
+        11013.767,
+        369.77,
+        7126.72
+      ],
+      "Orientation": [
+        -63.39,
+        0,
+        0
+      ]
+    }
+  ],
+  "WaterSpawnPositions": [
+    {
+      "Position": [],
+      "Orientation": []
+    }
+  ],
+  "MarketMenuColors": {
+    "BaseColorVignette": "000000C8",
+    "BaseColorHeaders": "13171BFF",
+    "BaseColorLabels": "27272DFF",
+    "BaseColorText": "FBFCFEFF",
+    "BaseColorCheckboxes": "FBFCFEFF",
+    "BaseColorInfoSectionBackground": "2225268C",
+    "BaseColorTooltipsHeaders": "000000F0",
+    "BaseColorTooltipsBackground": "000000DC",
+    "ColorDecreaseQuantityButton": "DD262614",
+    "ColorDecreaseQuantityIcon": "DD262628",
+    "ColorSetQuantityButton": "C7265114",
+    "ColorIncreaseQuantityButton": "A0CC7114",
+    "ColorIncreaseQuantityIcon": "A0CC7128",
+    "ColorSellPanel": "27272DFF",
+    "ColorSellButton": "DD262628",
+    "ColorBuyPanel": "27272DFF",
+    "ColorBuyButton": "A0CC7128",
+    "ColorMarketIcon": "E241428C",
+    "ColorFilterOptionsButton": "C726518C",
+    "ColorFilterOptionsIcon": "C726518C",
+    "ColorSearchFilterButton": "C726518C",
+    "ColorCategoryButton": "C726518C",
+    "ColorCategoryCollapseIcon": "C726518C",
+    "ColorCurrencyDenominationText": "FFB418FF",
+    "ColorItemButton": "C726518C",
+    "ColorItemInfoIcon": "FFB418FF",
+    "ColorItemInfoTitle": "FFB418FF",
+    "ColorItemInfoHasContainerItems": "FFB418FF",
+    "ColorItemInfoHasAttachments": "FFB418FF",
+    "ColorItemInfoHasBullets": "FFB418FF",
+    "ColorItemInfoIsAttachment": "FFB418FF",
+    "ColorItemInfoIsEquipped": "FFB418FF",
+    "ColorItemInfoAttachments": "FFB418FF",
+    "ColorToggleCategoriesText": "C726518C",
+    "ColorCategoryCorners": "FBFCFEFF",
+    "ColorCategoryBackground": "222526FF",
+    "ColorPlayerStock": "2980B9FF",
+    "ColorRequirementsNotMet": "EB4635FF"
+  },
+  "Currencies": [
+    "BTC_Currency_Coin_1",
+    "BTC_Currency_Coin_5",
+    "BTC_Currency_Coin_10",
+    "BTC_Currency_Coin_20",
+    "BTC_Currency_Coin_50",
+    "BTC_Currency_Coin_100",
+    "BTC_Currency_Coin_200",
+    "BTC_Currency_Coin_500",
+    "BTC_Currency_Coin_1000",
+    "BTC_Currency_Coin_10000",
+    "BTC_Currency_Coin_100000"
+  ],
+  "VehicleKeys": [
+    "expansion"
+  ],
+  "MaxSZVehicleParkingTime": 3600,
+  "SZVehicleParkingTicketFine": 0,
+  "SZVehicleParkingFineUseKey": 0,
+  "TrainSpawnPositions": [],
+  "DisallowUnpersisted": 0,
+  "DisableClientSellTransactionDetails": 0
+}

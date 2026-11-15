@@ -1,0 +1,34 @@
+{
+  "m_Version": 11,
+  "Enabled": 1,
+  "FrameRateCheckSafeZoneInMs": 0,
+  "CircleZones": [
+    {
+      "Type": 1,
+      "Center": [
+        7428.907,
+        239.826,
+        4997.525
+      ],
+      "Radius": 750
+    }
+  ],
+  "PolygonZones": [],
+  "CylinderZones": [],
+  "ActorsPerTick": 5,
+  "DisablePlayerCollision": 1,
+  "DisableVehicleDamageInSafeZone": 1,
+  "EnableForceSZCleanup": 1,
+  "ItemLifetimeInSafeZone": 1800,
+  "EnableForceSZCleanupVehicles": 1,
+  "VehicleLifetimeInSafeZone": 3600,
+  "ForceSZCleanup_ExcludedItems": [
+    "Paragon_Trashcan_Static",
+    "Paragon_Dumpster_Static",
+    "Paragon_GraffitiCan_Static",
+    "FireplaceIndoor",
+    "Fireplace",
+    "Zen_ChessBoard_Static",
+	"IH_Heat_Campfire"
+  ]
+}
